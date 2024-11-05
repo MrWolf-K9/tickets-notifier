@@ -24,6 +24,18 @@ go.work.sum
 # env file
 .env
 
+
+**/*.go
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
 # config
 /config.yaml
 /secrets.txt
