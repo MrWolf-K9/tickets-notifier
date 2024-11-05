@@ -28,3 +28,4 @@ go.work.sum
 /config.yaml
 /secrets.txt
 /test.txt
+/tickets-notifier
