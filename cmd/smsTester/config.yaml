@@ -1,0 +1,7 @@
+apiKey: "4e7762fe3f80eb51c7339795f18b84c3ac0fa098"
+ticketsUrl: ""
+phoneNumbers:
+  - "+420730902323"
+messageText: "WolfApp test smsmanager"
+regexString: ""
+
